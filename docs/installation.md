@@ -11,4 +11,3 @@ pip: Make sure you have `pip` installed for package management.
 For login Page 
 Username is "admin" and password is "password"
 
-![WhatsApp Image 2024-10-10 at 9 26 51 PM](https://github.com/user-attachments/assets/dd752bf3-1e59-4864-815a-710b6cb9e1ae)
