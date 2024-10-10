@@ -1,1 +1,14 @@
+transformers
+datasets 
+diffusers 
+torch 
+torchvision
+pillow 
+matplotlib 
+ipywidgets
+torch
+requests
+
+
+  
 
